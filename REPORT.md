@@ -1,6 +1,7 @@
 # Lab 21 — Evaluation Report
 
-**Học viên**: kag2002  
+**Học viên**: Lê Thiên Khang**MSSV**: 2A202600726 
+ 
 **Ngày nộp**: 2026-06-25  
 **Submission option**: A (Lightweight ZIP)
 
